@@ -1,0 +1,17 @@
+{
+  "name": "basicszerverfel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Levi",
+  "license": "ISC",
+  "description": "basic fel",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
